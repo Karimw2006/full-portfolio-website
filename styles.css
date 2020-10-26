@@ -238,6 +238,9 @@ p {
     display: none;
 }
 @media (max-width: 992px){
+    body{
+        width: 100%;
+    }
     .toggle{
         display: block;
         position: relative;
