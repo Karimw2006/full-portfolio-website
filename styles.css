@@ -269,6 +269,7 @@ p {
         z-index: 1;
         transition: 0.5s;
     }
+    
     header ul{
         position: absolute;
         text-align: center;
@@ -293,7 +294,6 @@ p {
         padding-top: 20px;
     }
     header{
-        padding: 5px 50px;
         background: #fff;
     }
     header .logo,
